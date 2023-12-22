@@ -38,9 +38,15 @@ AI learning , Python, Mathematics, Machine learning, Deep learning, Neural Netwo
 
 ## Papers:
 1.Generative Agents Interactive Simulacra of Human Behavior
+
 2.LLM Powered Autonomous Agents
+
 3.LLM as OS, Agents as Apps- Envisioning AIOS, Agent
+
 4.REACT
+
 5.The Rise and Potential of Large Language Model Based Agents
+
 6.Tree of Thoughts Deliberate Problem Solving with Large Language Models
+
 7.lost in middle
