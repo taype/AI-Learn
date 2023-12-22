@@ -3,7 +3,8 @@ AI learning , Python, Mathematics, Machine learning, Deep learning, Neural Netwo
 
 ## Math
 
-1.Mathematical discoveries from program search with large language models https://github.com/google-deepmind/funsearch  
+1.Mathematical discoveries from program search with large language models https://github.com/google-deepmind/funsearch
+
 2.Math for Computer Science and Machine Learning  
 
 ## machinelearning
@@ -27,6 +28,7 @@ AI learning , Python, Mathematics, Machine learning, Deep learning, Neural Netwo
 ## Prompts
 
 1.Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine   https://github.com/microsoft/promptbase
+
 2.Large Language Models Understand and Can Be Enhanced by Emotional Stimuli 
 
 ## RAG
