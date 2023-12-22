@@ -1,2 +1,2 @@
 METAGPT: META PROGRAMMING FOR A MULTI-AGENT COLLABORATIVE FRAMEWORK
-AppAgent: Multimodal Agents as Smartphone Users
+AppAgent: Multimodal Agents as Smartphone Users https://appagent-official.github.io/
