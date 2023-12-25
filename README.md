@@ -33,6 +33,9 @@ Large Language Models Understand and Can Be Enhanced by Emotional Stimuli
 
 PromptBench: A Unified Library for Evaluation of Large Language Models https://github.com/microsoft/promptbench
 
+## AIOS
+
+LLM as OS, Agents as Apps- Envisioning AIOS, Agents and the AIOS-Agent Ecosystem
 
 ## RAG
 
