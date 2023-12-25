@@ -31,7 +31,7 @@ Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study i
 
 Large Language Models Understand and Can Be Enhanced by Emotional Stimuli 
 
-PromptBench: A Unified Library for Evaluation of Large Language Models
+PromptBench: A Unified Library for Evaluation of Large Language Models https://github.com/microsoft/promptbench
 
 
 ## RAG
