@@ -25,6 +25,8 @@ A Roadmap for Big Model V3
 
 GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL https://openreview.net/pdf?id=-Aw0rrrPUF 
 
+A Survey on Evaluation of Large Language Models
+
 ## Prompts
 
 Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine   https://github.com/microsoft/promptbase
