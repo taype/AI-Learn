@@ -8,3 +8,7 @@ A Survey on Evaluation of Large Language Models
 Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
 Llama 2: Open Foundation and Fine-Tuned Chat Models https://arxiv.org/pdf/2307.09288.pdf
 BloombergGPT: A Large Language Model for Finance
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+Mistral 7B
+Orca 2: Teaching Small Language Models How to Reason
+
