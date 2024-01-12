@@ -1,5 +1,5 @@
 # Ai-Learn
-AI learning , Python, Mathematics, Machine learning, Deep learning, Neural Networks, LLM, RAG, Prompts, Agents, AIOS, Paper and so on..
+AI learning , Python, Mathematics, Machine learning, Deep learning, Neural Networks, LLM, PEFT, RAG, Prompts, Agents, AIOS, Paper and so on..
 
 ## Math
 
@@ -26,6 +26,10 @@ A Roadmap for Big Model V3
 GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL https://openreview.net/pdf?id=-Aw0rrrPUF 
 
 A Survey on Evaluation of Large Language Models
+
+## PEFT
+
+QLoRA : Efficient Finetuning of Quantized LLMs  https://arxiv.org/pdf/2305.14314.pdf
 
 ## Prompts
 
