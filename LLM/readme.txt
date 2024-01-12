@@ -5,3 +5,4 @@ http://www.caict.ac.cn/kxyj/qwfb/bps/202209/P020220902534520798735.pdf  人工�
 https://arxiv.org/pdf/2203.14101v3.pdf  A Roadmap for Big Model V3 
 https://openreview.net/pdf?id=-Aw0rrrPUF GLM-130B: AN OPEN BILINGUAL PRE-TRAINED MODEL
 A Survey on Evaluation of Large Language Models
+Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
