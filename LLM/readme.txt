@@ -7,3 +7,4 @@ https://openreview.net/pdf?id=-Aw0rrrPUF GLM-130B: AN OPEN BILINGUAL PRE-TRAINED
 A Survey on Evaluation of Large Language Models
 Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling
 Llama 2: Open Foundation and Fine-Tuned Chat Models https://arxiv.org/pdf/2307.09288.pdf
+BloombergGPT: A Large Language Model for Finance
