@@ -11,4 +11,6 @@ BloombergGPT: A Large Language Model for Finance
 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 Mistral 7B
 Orca 2: Teaching Small Language Models How to Reason
+Segment Anything
+Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning
 
