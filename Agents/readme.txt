@@ -6,3 +6,4 @@ LLM Powered Autonomous Agents
 The Rise and Potential of Large Language Model Based Agents
 KwaiAgents: Generalized Information-seeking Agent System with Large Language Models
 Pearl - A Production-ready Reinforcement Learning AI Agent Library
+Practices for Governing Agentic AI Systems
