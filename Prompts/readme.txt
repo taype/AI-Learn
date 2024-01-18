@@ -4,4 +4,6 @@ PromptBench: A Unified Library for Evaluation of Large Language Models https://g
 Tree of Thoughts Deliberate Problem Solving with Large Language Models
 lost in middle
 REACT
+The Benefits of a Concise Chain of Thought on Problem-Solving in Large Language Models
+TAKE A STEP BACK-EVOKING REASONING VIA ABSTRACTION IN LARGE LANGUAGE MODELS
 
